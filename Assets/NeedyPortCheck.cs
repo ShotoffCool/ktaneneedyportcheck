@@ -63,7 +63,7 @@ public class NeedyTemplate : MonoBehaviour
 
     void Start()
     { //Shit that you calculate, usually a majority if not all of the module
-        Needy.SetResetDelayTime(30f, 50f);
+
     }
 
     void Update()
