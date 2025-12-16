@@ -1,0 +1,10 @@
+{
+  "name": "needyPortCheck-Editor",
+  "references": [
+    "needyPortCheck"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
